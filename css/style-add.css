@@ -1,0 +1,17 @@
+.table-content{
+    padding: 24px;
+    background-color: #F7F5F5;
+    width: 100%;
+}
+.table-content-title{
+    color: #000;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+
+.table-content ol li a{
+    color: rgba(0, 120, 204, 0.90);
+    text-decoration: none;
+    font-weight: 700;
+}
